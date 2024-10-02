@@ -30,6 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - BCrypt
 - SQLite
 - Multer
+- PM2
 
 ## 💻 Projeto
 
