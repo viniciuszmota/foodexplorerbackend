@@ -50,9 +50,11 @@ Ao baixar ou clonar o projeto execute no terminal da aplicação:
 
 Você precisará executar o frontend da aplicação disponível no repositório abaixo:
 
+https://github.com/viniciuszmota/foodexplorerfrontend
+
 ## 👨‍💻 Deploy:
 
-Endereço:
+Endereço: https://foodexplorervini.netlify.app/
 
 ---
 
